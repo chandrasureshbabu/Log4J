@@ -1,0 +1,5 @@
+18:47:41.213 [main] DEBUG Beta.Demo2 - this debug
+18:47:41.218 [main] INFO  Beta.Demo2 - this info
+18:47:41.218 [main] WARN  Beta.Demo2 - this is info
+18:47:41.218 [main] ERROR Beta.Demo2 - this is error
+18:47:41.218 [main] FATAL Beta.Demo2 - this is fatal
